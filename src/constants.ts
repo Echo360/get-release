@@ -23,4 +23,5 @@ export enum Outputs {
     TargetCommitish = 'target_commitish',
     CreatedAt = 'created_at',
     PublishedAt = 'published_at'
+    Body = 'body'
 }
